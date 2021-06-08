@@ -1,0 +1,4 @@
+build/
+.vscode/
+P2PLocalMessage
+*.sqlite3

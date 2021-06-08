@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.8)
+
+add_subdirectory(DatabaseService)
+add_subdirectory(CommunicationService)
+add_subdirectory(P2PLocalMessageLib)
+add_subdirectory(P2PLocalMessageUI)
